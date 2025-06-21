@@ -1,2 +1,2 @@
-# CS110-ShanghaiTech2023
-CS110&amp;Computer Architechure, 2023 Spring, ShanghaiTech University 
+# CS110-ShanghaiTech2025
+CS110&amp;Computer Architechure, 2025 Spring, ShanghaiTech University 
